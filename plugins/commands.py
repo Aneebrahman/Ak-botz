@@ -137,10 +137,10 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("🎁𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩​🎁", url=f'http://t.me/TGxMULTIBOT?startgroup=true')
+                          InlineKeyboardButton("🎁𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩​🎁", url=f'http://t.me/Ak_autofilterxbot?startgroup=true')
                         ],[
-                          InlineKeyboardButton("🌿 ɢʀᴏᴜᴘ", url='https://t.me/at3movies'),
-                          InlineKeyboardButton("🍂 ᴄʜᴀɴɴᴇʟ", url='https://t.me/CKTalkies')
+                          InlineKeyboardButton("🌿 ɢʀᴏᴜᴘ", url='https://t.me/MH_moviesgroup01'),
+                          InlineKeyboardButton("🍂 ᴄʜᴀɴɴᴇʟ", url='https://t.me/movies_channel001')
                          ]
                         ]
                     )
@@ -156,10 +156,10 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("🎁𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩​🎁", url=f'http://t.me/TGxMULTIBOT?startgroup=true')
+                          InlineKeyboardButton("🎁𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩​🎁", url=f'http://t.me/Ak_autofilterxbot?startgroup=true')
                         ],[
-                          InlineKeyboardButton("🌿 ɢʀᴏᴜᴘ", url='https://t.me/at3movies'),
-                          InlineKeyboardButton("🍂 ᴄʜᴀɴɴᴇʟ", url='https://t.me/CKTalkies')
+                          InlineKeyboardButton("🌿 ɢʀᴏᴜᴘ", url='https://t.me/MH_moviesgroup01'),
+                          InlineKeyboardButton("🍂 ᴄʜᴀɴɴᴇʟ", url='https://t.me/movies_channel001')
                          ]
                         ]
                     )
@@ -257,10 +257,10 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                          [
-                          InlineKeyboardButton("🎁𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩​🎁", url=f'http://t.me/TGxMULTIBOT?startgroup=true')
+                          InlineKeyboardButton("🎁𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩​🎁", url=f'http://t.me/Ak_autofilterxbot?startgroup=true')
                         ],[
-                          InlineKeyboardButton("🌿 ɢʀᴏᴜᴘ", url='https://t.me/at3movies'),
-                          InlineKeyboardButton("🍂 ᴄʜᴀɴɴᴇʟ", url='https://t.me/CKTalkies')
+                          InlineKeyboardButton("🌿 ɢʀᴏᴜᴘ", url='https://t.me/MH_moviesgroup01'),
+                          InlineKeyboardButton("🍂 ᴄʜᴀɴɴᴇʟ", url='https://t.me/movies_channel001')
                          ]
                         ]
                     )
@@ -310,10 +310,10 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton("🎁𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩​🎁", url=f'http://t.me/TGxMULTIBOT?startgroup=true')
+              InlineKeyboardButton("🎁𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩​🎁", url=f'http://t.me/Ak_autofilterxbot?startgroup=true')
             ],[
-              InlineKeyboardButton("🌿 ɢʀᴏᴜᴘ", url='https://t.me/at3movies'),
-              InlineKeyboardButton("🍂 ᴄʜᴀɴɴᴇʟ", url='https://t.me/CKTalkies')
+              InlineKeyboardButton("🌿 ɢʀᴏᴜᴘ", url='https://t.me/MH_moviesgroup01'),
+              InlineKeyboardButton("🍂 ᴄʜᴀɴɴᴇʟ", url='https://t.me/movies_channel001')
              ]
               ]
        )
